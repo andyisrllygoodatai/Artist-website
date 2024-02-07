@@ -33,7 +33,7 @@ background-color: rgb(155, 67, 67);
  }
 
 td{
-    color: rgb(160, 54, 54);
+    color: rgb(218, 104, 104);
 }
 
 
@@ -42,4 +42,10 @@ td{
  table, th, td{
     border: 5px solid rgb(41, 93, 114);
     width: 60%;
+ }
+ td{
+    font-size: xx-large; 
+ }
+ form{
+    color: rgb(181, 82, 190);
  }
